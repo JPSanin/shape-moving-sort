@@ -50,7 +50,7 @@ function draw(){
                 }
             }
 
-            if(controller.getLists().getSquares().length==10){
+            if(controller.getLists().getSquares().length>=10){
                 image(buttonOpacity,24,430,202,52);
             }
 
