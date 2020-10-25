@@ -1,0 +1,6 @@
+Shape sorting project using javascript sort and 
+javascript array functions like map, push and pop,
+the program allows the user to create shapes, then
+use four buttons to either add, remove, duplicate and
+create circle. First version coded in javascript by
+Juan Pablo Sanin.
